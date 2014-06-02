@@ -14,13 +14,7 @@ require.config({
 
 	paths: {
 		'jquery'     : 'libs/jquery-1.10.2.min',  	
-		'underscore' : 'libs/underscore-1.5.2.min',
-		'backbone'   : 'libs/backbone-1.1.0.min',
-		'handlebars' : 'libs/handlebars.min',
-		'text'       : 'libs/require-text-2.0.10.min',
-		'bootstrap'  : 'libs/sass-bootstrap.min',
-		'templates'  : '../templates',
-		'app'        : 'config-app'
+		'bootstrap'  : 'libs/sass-bootstrap.min'
 	},
 
 	//
